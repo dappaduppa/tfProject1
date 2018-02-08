@@ -8,3 +8,5 @@ fig = plt.figure(2)
 fig.add_subplot(2, 2, 1)
 
 plt.show()
+
+print(plt)
